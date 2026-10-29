@@ -1,0 +1,8 @@
+.venv/
+data/raw/
+warehouse/
+olist_dbt/target/
+olist_dbt/logs/
+olist_dbt/dbt_packages/
+__pycache__/
+.ipynb_checkpoints/

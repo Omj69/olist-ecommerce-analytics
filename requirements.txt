@@ -1,0 +1,10 @@
+duckdb
+dbt-duckdb
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyarrow
+jupyterlab
+kaggle

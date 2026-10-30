@@ -6,3 +6,5 @@ olist_dbt/logs/
 olist_dbt/dbt_packages/
 __pycache__/
 .ipynb_checkpoints/
+logs/
+olist_dbt/.user.yml
